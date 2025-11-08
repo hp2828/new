@@ -1,4 +1,4 @@
 # new
 This is my first Git repo.
 <br>
-Author= Hitesh Pradhan
+Author= Hitesh Pradhan (Pradhan Construction)
